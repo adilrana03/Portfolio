@@ -1,8 +1,8 @@
 
 :root{
-    --bg-color: #f69393;
+    --bg-color: #d6d33e;
     --text-color: #000000;
-    --page-color: #eff2f2;
+    --page-color: #eff4f4;
     --hello: #78b204;
     --description: #e85a4f;
     --name: #e26456;
@@ -63,15 +63,15 @@
 .navbar{
     background-color: var(--bg-color);
     color: var(--text-color);
-    padding: 15px;
+    padding: 20px;
 }
 .text{
     color: var(--text-color);
 }
 .hello-img{
-    margin-top: 10px;
-    max-height: 250px;
-    height: 300px;
+    margin-top: 40px;
+    max-height: 310px;
+    height: 400px;
     width: 400px;
     /* border-radius: 50%; */
 }

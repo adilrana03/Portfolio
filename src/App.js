@@ -59,7 +59,7 @@ function App() {
                             </Button>
                         </Navbar.Collapse>
                     </Navbar>
-                    <hr></hr>
+                    {/* <hr />  */}
                     <div id='home'>
                         <Home darkMode={darkMode} />
                     </div>
