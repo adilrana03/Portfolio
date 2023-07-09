@@ -3,7 +3,7 @@ import { Fade, Flip } from 'react-awesome-reveal';
 import './styles.css';
 
 import profile from '../media/adil_pp1.jpeg';
-import resume from '../media/Adil_Rana_Resume.pdf';
+import resume from '../media/Adil_Rana_Resume_.pdf';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 

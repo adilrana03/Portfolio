@@ -597,11 +597,6 @@ const Experience = ({ darkMode }) => {
                                                                 </Card>
                                                         </Col>
                                                         </Row>
-
-
-
-
-
                                         </Zoom>
                                 </Container>
                         </Fade>
