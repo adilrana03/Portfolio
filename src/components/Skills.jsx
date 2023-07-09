@@ -113,7 +113,7 @@ const Skills = ({ darkMode }) => {
                                 <Card.Body>
                                     <Card.Title>Others</Card.Title>
                                     <Card.Text>
-                                        Data Structures and Algorithm
+                                        Material UI, Chakra UI, TypeScript
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
