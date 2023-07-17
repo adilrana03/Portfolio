@@ -8,7 +8,6 @@ import Button from 'react-bootstrap/esm/Button';
 import Container from 'react-bootstrap/esm/Container';
 import Row from 'react-bootstrap/esm/Row';
 import Col from 'react-bootstrap/Col';
-// import { Fade, Flip } from 'react-awesome-reveal';
 import './styles.css';
 import connectLight from '../media/connect-light1.svg';
 import connectDark from '../media/connect-dark1.svg';
@@ -16,7 +15,6 @@ import connectDark from '../media/connect-dark1.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import {
-    // faFile,
     faEnvelope,
     faPhoneAlt,
 } from '@fortawesome/free-solid-svg-icons';

@@ -1,13 +1,13 @@
 import React from 'react';
-import { Fade, Flip } from 'react-awesome-reveal';
+import { Fade } from 'react-awesome-reveal';
 import './styles.css';
 
 import profile from '../media/adil_pp1.jpeg';
-import resume from '../media/Adil_Rana_Resume_.pdf';
+import resume from '../media/Adil-Rana-Resume.pdf';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import { faFile, faEnvelope, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
+import { faFile} from '@fortawesome/free-solid-svg-icons';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';

@@ -1,6 +1,6 @@
 :root {
-	--bg-color: #d6d33e;
-	--text-color: #000000;
+	--bg-color: #bf14016e;
+	--text-color: #2f2e2e;
 	--page-color: #fbfdfd;
 	--hello: #78b204;
 	--description: #e85a4f;
@@ -78,7 +78,7 @@
 }
 
 .dark {
-	color: #8e8d8a;
+	color: #898988;
 	size: 40px;
 }
 
@@ -99,8 +99,8 @@
 .hello-img {
 	margin-top: 40px;
 	max-height: 310px;
-	height: 400px;
-	width: 400px;
+	height: 1000px;
+	width: 800px;
 	/* border-radius: 50%; */
 }
 .display-3 {
@@ -327,11 +327,12 @@ strong,
 	);
 }
 .footer-text {
-	text-align: center;
+	/* text-align: center; */
+	/* align-items: center; */
 	color: var(
 		--text-color
 	);
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 .profilepic-light {
@@ -360,8 +361,11 @@ strong,
 	font-size: 20px;
 }
 #footer {
-	/* background-color: #f6d369; */
-	margin-bottom: 0px;
+	background-color: #f6d369;
+	height: 80px;
+	margin-bottom: -20px;
+	text-align: center;
+	align-items: center;
 }
 body {
 	margin: 0;
